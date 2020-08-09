@@ -6,6 +6,6 @@ This component will be listening to the RabbitMQ for the events which are publis
 
 # How to build
 
-This project sould be built using Apache Maven Build Tool. Check out the repostiroy, and run the below maven command to build this project 
+This project should be built using Apache Maven Build Tool. Check out the repostiroy, and run the below maven command to build this project 
 
     > mvn clean install
